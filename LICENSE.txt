@@ -1,21 +1,41 @@
-MIT License
-
 Copyright (c) 2025 trdydtgs
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+to use, copy, modify, and merge copies of the Software, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
+1. The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+2. The Software shall not be sold, licensed for a fee, or otherwise distributed for commercial purposes.
+
+3. The Software shall not be used, modified, or distributed in any manner that falsely claims
+authorship, ownership, or endorsement by any person other than the original copyright holder.
+
+4. Redistributions of the Software, modified or unmodified, must include this license document
+and explicitly acknowledge the original author(s).
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+Copyright (c) 2025 trdydtgs
+
+본 소프트웨어(이하 "소프트웨어") 및 관련 문서 파일을 무료로 사용, 복사, 수정, 병합할 수 있는 권한을 무제한으로 부여합니다. 다만, 다음 조건을 준수해야 합니다:
+
+1. 본 저작권 표시와 본 허가 문구는 소프트웨어의 모든 복사본 또는 주요 부분에 포함되어야 합니다.
+
+2. 본 소프트웨어는 유료 판매, 상업적 라이선스 발급, 또는 영리 목적 배포가 금지됩니다.
+
+3. 본 소프트웨어는 원저작권자의 명시적 허가 없이 저작자, 소유자, 또는 공식 후원자로 허위 주장하거나 표시할 수 없습니다.
+
+4. 본 소프트웨어를 수정하거나 그대로 배포할 경우, 반드시 본 라이선스 문서를 포함하고 원저작자를 명시해야 합니다.
+
+본 소프트웨어는 어떠한 종류의 명시적 또는 묵시적 보증 없이 "있는 그대로" 제공되며, 상품성, 특정 목적 적합성, 비침해성에 관한 보증을 포함하지 않습니다. 저작권자나 권리자는 소프트웨어 사용 또는 거래와 관련하여 발생하는 어떠한 청구, 손해, 기타 책임에 대해서도 책임을 지지 않습니다.
