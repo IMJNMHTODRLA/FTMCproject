@@ -1,4 +1,5 @@
 Copyright (c) 2025 trdydtgs
+Creator's Minecraft UUID: 7a42b944-e5d6-44ed-811e-383c6a64d73f
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -27,6 +28,7 @@ SOFTWARE.
 ---
 
 Copyright (c) 2025 trdydtgs
+제작자의 마인크래프트 UUID: 7a42b944-e5d6-44ed-811e-383c6a64d73f
 
 본 소프트웨어(이하 "소프트웨어") 및 관련 문서 파일을 무료로 사용, 복사, 수정, 병합할 수 있는 권한을 무제한으로 부여합니다. 다만, 다음 조건을 준수해야 합니다:
 
